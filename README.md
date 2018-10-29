@@ -8,7 +8,7 @@ It demonstrates how you can manipulate the roller RAM to make the video RAM
 accessible in the TPA memory (where your program is traditionnally executed
 under CP/M).
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/zigazou76/45564292672/in/dateposted/" title="Manipulating video RAM on an Amstrad PCW"><img src="https://farm2.staticflickr.com/1964/45564292672_1fee00b2fd.jpg" width="500" height="281" alt="Manipulating video RAM on an Amstrad PCW"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/zigazou76/45564292672/in/dateposted/" title="Manipulating video RAM on an Amstrad PCW"><img src="https://farm2.staticflickr.com/1964/45564292672_1fee00b2fd.jpg" width="500" height="281" alt="Manipulating video RAM on an Amstrad PCW"></a>
 
 What it does
 ------------
